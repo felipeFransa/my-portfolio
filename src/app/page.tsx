@@ -1,6 +1,7 @@
 import { Weekday } from '@/components/Weekday';
-import { Main } from '@/components/main';
+import { Thumbnail } from '@/components/Thumbnail';
 import { About } from '@/components/aboutMe';
+import { MyProjects } from '@/components/myProjects';
 
 function Page() {
   
@@ -12,10 +13,13 @@ function Page() {
             <Weekday/>
           </div>
           <div>
-            <Main/>
+            <Thumbnail />
           </div>
           <div>
             <About />
+          </div>
+          <div>
+            <MyProjects />
           </div>
         </div>
     </div>

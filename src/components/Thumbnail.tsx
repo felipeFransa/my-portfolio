@@ -3,7 +3,7 @@ import iconWhatsapp from "../../assets/icos/whatsapp.svg";
 import iconLinkedin from "../../assets/icos/linkedin.svg";
 import iconInstagram from "../../assets/icos/instagram.svg";
 
-export const Main = () => {
+export const Thumbnail = () => {
     return(
         <div className="flex flex-row justify-around w-full h-96 items-center rounded-md ">
             <div className="flex flex-col justify-center text-center w-2/4">
