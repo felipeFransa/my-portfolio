@@ -1,7 +1,7 @@
-import { Weekday } from '@/components/Weekday';
-import { Thumbnail } from '@/components/Thumbnail';
-import { About } from '@/components/aboutMe';
-import { MyProjects } from '@/components/myProjects';
+import { Weekday } from '@/pages/Weekday';
+import { Thumbnail } from '@/pages/Thumbnail';
+import { About } from '@/pages/aboutMe';
+import { MyProjects } from '@/pages/myProjects';
 
 function Page() {
   
