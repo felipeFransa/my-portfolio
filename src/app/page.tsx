@@ -1,7 +1,7 @@
-import { Weekday } from '@/pages/Weekday';
-import { Thumbnail } from '@/pages/Thumbnail';
-import { About } from '@/pages/aboutMe';
-import { MyProjects } from '@/pages/myProjects';
+import { Header } from '@/components/Header';
+import { Thumbnail } from '@/components/Thumbnail';
+import { About } from '@/components/aboutMe';
+import { MyProjects } from '@/components/myProjects';
 
 function Page() {
   
@@ -10,7 +10,7 @@ function Page() {
     <div className="w-auto bg-black flex flex-col justify-around items-center">
         <div className='w-5/6'>
           <div>
-            <Weekday/>
+            <Header />
           </div>
           <div>
             <Thumbnail />
