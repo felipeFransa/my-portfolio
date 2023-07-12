@@ -2,6 +2,7 @@ import { Header } from '@/components/Header';
 import { Thumbnail } from '@/components/Thumbnail';
 import { About } from '@/components/aboutMe';
 import { MyProjects } from '@/components/myProjects';
+import { Footer } from "@/components/Footer";
 
 function Page() {
   
@@ -20,6 +21,9 @@ function Page() {
           </div>
           <div>
             <MyProjects />
+          </div>
+          <div>
+            <Footer />
           </div>
         </div>
     </div>
