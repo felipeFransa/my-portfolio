@@ -8,16 +8,14 @@ export const Footer = () => {
     return (
         <div className="flex flex-col w-full h-full justify-around items-center">
 
-            <div className="w-full h-36 flex flex-row justify-between items-center">
-                <div className="w-2/6 h-full flex flex-col justify-center items-start">
+            <div className="w-full h-36 flex flex-col sm:flex-row justify-between items-center">
+                <div className="w-2/6 h-full flex flex-col justify-center items-center sm:items-start">
                     <h2>Contato</h2>
-                    {/* <h4>email: felipefransa@exemplo.com</h4>
-                    <h4>Telefone: 31-971228890</h4> */}
                 </div>
                 <div className="w-2/6 h-full flex flex-col justify-center items-center">
                     <h2>Redes Sociais</h2>
                 </div>
-                <div className="w-2/6 h-full flex flex-col justify-center items-end">
+                <div className="w-2/6 h-full flex flex-col justify-center items-center sm:items-end">
                     <h2>Sobre</h2>
                 </div>
             </div>

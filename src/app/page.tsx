@@ -5,27 +5,14 @@ import { MyProjects } from '@/components/myProjects';
 import { Footer } from "@/components/Footer";
 
 function Page() {
-  
 
   return(
-    <div className="w-auto bg-black flex flex-col justify-around items-center">
-        <div className='w-5/6'>
-          <div>
+    <div className="container mx-auto">
             <Header />
-          </div>
-          <div>
             <Thumbnail />
-          </div>
-          <div>
             <About />
-          </div>
-          <div>
             <MyProjects />
-          </div>
-          <div>
             <Footer />
-          </div>
-        </div>
     </div>
     
   )
