@@ -13,7 +13,7 @@ export const Thumbnail = () => {
 
             <div className="flex flex-col justify-center items-center w-full h-full">
                 <div className="flex flex-row items-center justify-center w-full h-full mb-4">
-                    <img src={Avatar.src} alt="Felipe" className="w-64 h-64 hover:border-2 border-rose-500 rounded-full" />
+                    {/* <img src={Avatar.src} alt="Felipe" className="w-64 h-64 hover:border-2 border-rose-500 rounded-full" /> */}
                 </div>
                 <div className="flex flex-row justify-center items-center w-full h-ful mb-4">
                     <img src={iconInstagram.src} alt="instagram" className="w-10 h-10 ml-4 px-2 rounded-lg bg-rose-600 hover:w-12 hover:h-12 hover:cursor-pointer" />
