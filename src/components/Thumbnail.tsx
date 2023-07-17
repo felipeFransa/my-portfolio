@@ -1,4 +1,4 @@
-import Avatar from "@/assets/felipe.svg"
+import Avatar from "@/assets/felipe.png"
 import iconWhatsapp from "@/assets/icos/whatsapp.svg";
 import iconLinkedin from "@/assets/icos/linkedin.svg";
 import iconInstagram from "@/assets/icos/instagram.svg";
