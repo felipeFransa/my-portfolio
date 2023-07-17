@@ -1,4 +1,3 @@
-import note from "../../assets/icos/nota.svg"
 
 export const MyProjects = () => {
     return(

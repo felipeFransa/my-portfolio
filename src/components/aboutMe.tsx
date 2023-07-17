@@ -1,8 +1,8 @@
-import iconCss from "../../assets/css.png"
-import iconHTML from "../../assets/html.png"
-import iconJS from "../../assets/javascript.png"
-import iconNode from "../../assets/node.png"
-import iconTS from "../../assets/typescript.png"
+import iconCss from "@/assets/css.png"
+import iconHTML from "@/assets/html.png"
+import iconJS from "@/assets/javascript.png"
+import iconNode from "@/assets/node.png"
+import iconTS from "@/assets/typescript.png"
 
 export const About = () => {
     return(

@@ -1,8 +1,8 @@
-import Whatsapp from "../../assets/icos/whatsapp.svg";
-import Linkedin from "../../assets/icos/linkedin.svg";
-import Instagram from "../../assets/icos/instagram.svg";
-import Facebook from "../../assets/icos/facebook.svg";
-import Twitter from "../../assets/icos/twitter.svg";
+import Whatsapp from "@/assets/icos/whatsapp.svg";
+import Linkedin from "@/assets/icos/linkedin.svg";
+import Instagram from "@/assets/icos/instagram.svg";
+import Facebook from "@/assets/icos/facebook.svg";
+import Twitter from "@/assets/icos/twitter.svg";
 
 export const Footer = () => {
     return (

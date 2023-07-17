@@ -1,7 +1,7 @@
-import Avatar from "../../assets/felipe.jpg"
-import iconWhatsapp from "../../assets/icos/whatsapp.svg";
-import iconLinkedin from "../../assets/icos/linkedin.svg";
-import iconInstagram from "../../assets/icos/instagram.svg";
+import Avatar from "@/assets/felipe.jpg"
+import iconWhatsapp from "@/assets/icos/whatsapp.svg";
+import iconLinkedin from "@/assets/icos/linkedin.svg";
+import iconInstagram from "@/assets/icos/instagram.svg";
 
 export const Thumbnail = () => {
     return(
