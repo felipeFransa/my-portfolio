@@ -16,10 +16,14 @@ export const MyProjects = () => {
                     </div>
                 </div>
                 <div className="flex w-full h-full justify-center items-center mb-2">
-                    <div className="flex w-48 h-48 rounded-md bg-slate-600"></div>
+                    <div className="flex w-48 h-48 rounded-md justify-center items-center">
+                        <a href="https://site-versao-um.vercel.app/"><p className="hover:bg-blue-600 hover:p-3 rounded-sm">www.driverforza.com</p></a>
+                    </div>
                 </div>
                 <div className="flex w-full h-full justify-center items-center mb-2">
-                    <div className="flex w-48 h-48 rounded-md bg-slate-200"></div>
+                    <div className="flex w-48 h-48 rounded-md justify-center items-center">
+                        <a href="https://app-calc-imc.vercel.app/"> <p className="hover:bg-blue-600 hover:p-3 rounded-sm">www.calculadoradeimc.com</p></a>
+                    </div>
                 </div>
             </div>
         </div>
