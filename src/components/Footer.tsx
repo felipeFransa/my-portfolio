@@ -42,8 +42,8 @@ export const Footer = () => {
                 </div>
                
                 <div className="w-full flex flex-row justify-center items-center">
-                    <h3>
-                        @Copyright Felipe Developer
+                    <h3 className="text-xs text-center">
+                    Copyright © 2023 por 333 Developer. Todos os direitos reservados. Nenhuma parte deste conteúdo pode ser reproduzida, distribuída ou transmitida de qualquer forma ou por qualquer meio, eletrônico ou mecânico, incluindo fotocópia, gravação ou qualquer outro sistema de armazenamento e recuperação de informações, sem permissão por escrito do detentor dos direitos autorais. Violações serão processadas de acordo com as leis de direitos autorais aplicáveis.
                     </h3>
                 </div>
             </div>
