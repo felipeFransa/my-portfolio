@@ -40,3 +40,6 @@ next-env.d.ts
 screenshots/
 capture_previews.js
 *.log
+
+# Firebase cache
+.firebase/

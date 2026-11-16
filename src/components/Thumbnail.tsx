@@ -82,7 +82,7 @@ export const Thumbnail = () => {
                     fill
                     priority
                     sizes="(max-width: 768px) 100vw, 384px"
-                    className="object-cover object-[center_20%] group-hover:scale-[1.02] transition-transform duration-300"
+                    className="object-cover object-center group-hover:scale-[1.02] transition-transform duration-300"
                   />
                 </div>
 
