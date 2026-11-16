@@ -35,3 +35,8 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# QA previews and local dev logs
+screenshots/
+capture_previews.js
+*.log
